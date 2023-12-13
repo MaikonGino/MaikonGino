@@ -9,8 +9,8 @@ Fai clic sul badge e scopri di più sulla mia Micro Certificazione nel Front-End
 
 <div>
 <a href="https://github.com/MaikonGino">
-<img loading="active" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikonGino&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="active" height="165em" src="https://github-readme-stats.vercel.app/api/?username=MaikonGino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="active" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikonGino&layout=compact&langs_count=7&theme=tokyonight"/>
+<img loading="active" height="165em" src="https://github-readme-stats.vercel.app/api/?username=MaikonGino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 <picture>
