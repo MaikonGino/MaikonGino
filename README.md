@@ -1,14 +1,16 @@
 # Maikon Gino
 ## <h1 align="center">Certificações / Certifications</h1>
-Clique sobre a medalha e veja mais sobre minha Micro Certificação em Front-End Básico. </br></br>
+Clique na medalha e veja mais sobre minha Micro Certificação em Front-End Básico.</br> 
+Click on the badge and see more about my Micro Certification in Basic Front-End.</br>
+Fai clic sul badge e scopri di più sulla mia Micro Certificazione nel Front-End di base.</br></br>
 <a href="https://badge.cps.sp.gov.br//view.aspx?59eb5a78-90c0-45e1-bdf1-1fea17dc7c53" target="_blank" style="border:1px solid gray; padding:10px;"><img src="https://badge.cps.sp.gov.br/_files/60ecbd64c97644179b0a11b8320aa942.png" width="300px"></a>
 
 ### <h1 align="center">About me</h1>
 
 <div>
 <a href="https://github.com/MaikonGino">
-<img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikonGino&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/?username=MaikonGino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="active" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikonGino&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="active" height="165em" src="https://github-readme-stats.vercel.app/api/?username=MaikonGino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <picture>
