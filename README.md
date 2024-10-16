@@ -1,4 +1,5 @@
 # Maikon Gino
+Estudante de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Araras, buscando transição para a área de tecnologia. Atualmente atuo como secretário de escola e estou focado em adquirir habilidades de programação e desenvolvimento de sistemas. Aqui no GitHub, compartilho meus projetos acadêmicos e aprendizados à medida que evoluo na jornada de desenvolvedor.
 ## <h1 align="center">Certificações / Certifications</h1>
 Clique na medalha e veja mais sobre minha Micro Certificação em Front-End Básico.</br> 
 Click on the badge and see more about my Micro Certification in Basic Front-End.</br>
